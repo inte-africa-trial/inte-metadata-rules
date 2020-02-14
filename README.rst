@@ -4,7 +4,7 @@
 INTE metadata-rules
 -----------------------
 
-See also `edc-intedata` and `edc-intedata-rules`.
+See also `edc-metadata` and `edc-metadata-rules`.
 
 
 .. |pypi| image:: https://img.shields.io/pypi/v/inte-metadata-rules.svg
